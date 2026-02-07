@@ -1,0 +1,9 @@
+/target
+/test-output
+/.idea
+*.log
+*.class
+*.exe
+chromedriver.exe
+ExtentReports
+Screenshots
