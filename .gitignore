@@ -1,9 +1,15 @@
+# Maven
 /target
 /test-output
-/.idea
-*.log
-*.class
-*.exe
+
+# Reports & screenshots
+/ExtentReports
+/Screenshots
+
+# Drivers
 chromedriver.exe
-ExtentReports
-Screenshots
+
+# Eclipse / IDE files
+.settings
+.classpath
+.project
