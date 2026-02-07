@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="Suite" parallel="false">
+<listeners>
+        <listener class-name="utilities.TestListener"/>
+    </listeners>
+  <test name="Test">
+    <classes>
+   <class name="testcases.HomePageTest"/>
+   <class name="testcases.RegistrationTest"/>
+     <class name="testcases.LoginTest"/>
+      <class name="testcases.SearchPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
